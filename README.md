@@ -1,0 +1,1 @@
+Using Spotify's API, the user can sign into there Spotify Account and check the current song they are currently playing by displaying the song title and image. It is important to run both the auth-server and client servers at the same time. 
